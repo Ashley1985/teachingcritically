@@ -12,8 +12,8 @@ description = "An archive of resources for critical teachers"
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "https://rad-fairy-2eacef.netlify.app/"
+titleHome = "CriticalTeaching"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
