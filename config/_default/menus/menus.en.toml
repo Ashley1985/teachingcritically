@@ -1,6 +1,6 @@
 [[main]]
   name = "Docs"
-  url = "/docs/overview/introduction/"
+  url = "/docs/overview/introduction/" 
   weight = 10
 
 [[main]]
@@ -8,10 +8,6 @@
   url = "/blog/"
   weight = 20
 
-[[main]]
-  name = "Community"
-  url = "https://github.com/h-enk/doks/discussions"
-  weight = 50
 
 [[social]]
   name = "Twitter"
