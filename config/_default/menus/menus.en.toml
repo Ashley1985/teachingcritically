@@ -34,11 +34,7 @@
   identifier = "how-to"
   url = "/docs/how-to/"
 
-[[docs]]
-  name = "Help"
-  weight = 50
-  identifier = "help"
-  url = "/docs/help/"
+
 
 [[footer]]
   name = "Privacy"
