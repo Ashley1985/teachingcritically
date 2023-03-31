@@ -23,10 +23,10 @@
   weight = 20
 
 [[docs]]
-  name = "overview"
+  name = "prologue"
   weight = 10
-  identifier = "overview"
-  url = "/docs/overview/"
+  identifier = "prologue"
+  url = "/docs/prologue/"
 
 [[docs]]
   name = "Recipes"
