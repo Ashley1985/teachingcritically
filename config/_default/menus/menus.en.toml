@@ -28,13 +28,6 @@
   identifier = "prologue"
   url = "/docs/prologue/"
 
-[[docs]]
-  name = "Recipes"
-  weight = 20
-  identifier = "how-to"
-  url = "/docs/how-to/"
-
-
 
 [[footer]]
   name = "Privacy"
